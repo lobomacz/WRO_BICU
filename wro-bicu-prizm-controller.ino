@@ -259,8 +259,8 @@ void trazaRuta(){
   int indice = -1;
   if(color_buscar != "azul"){
     // Revisamos si se conoce el índice del el color que se busca
-    for(int i = 1;i<6){
-      if(colores[i] == color_buscar){
+    for(int i = 1;i<6;i++){
+      if(icolores[i] == color_buscar){
         indice = i;
       }
     }

@@ -11,7 +11,8 @@
 /*
  * Sketch para reconocimiento y lectura de código QR
  * para la estracción de las coordenadas de las cajas
- * y estación de parqueo del reto WRO Tetrix 2020
+ * y estación de parqueo y detección de los colores 
+ * de las cajas y cubos del reto WRO Tetrix 2021
  * 
  */
 
